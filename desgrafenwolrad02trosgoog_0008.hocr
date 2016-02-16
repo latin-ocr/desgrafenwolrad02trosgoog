@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desgrafenwolrad02trosgoog_0008.png"; bbox 0 0 3054 5110; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 436 539 1019 774">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 415 397 1041 774">
+     <span class='ocr_line' id='line_1_1' title="bbox 436 539 1019 774; baseline -0.045 -3.939"><span class='ocrx_word' id='word_1_1' title='bbox 436 539 1019 774; x_wconf 60' lang='lat' dir='ltr'>mmmmm&lt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 124 1675 1310 1818">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 124 1675 1310 1818">
+     <span class='ocr_line' id='line_1_2' title="bbox 124 1675 1310 1818; baseline -0.003 -2"><span class='ocrx_word' id='word_1_2' title='bbox 124 1675 878 1818; x_wconf 65' lang='lat' dir='ltr'>mmmlscssffl</span> <span class='ocrx_word' id='word_1_3' title='bbox 960 1675 1310 1814; x_wconf 66' lang='lat' dir='ltr'><strong>vmlws</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1532 5110">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1532 5110">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1532 5110; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1532 5110; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
